@@ -59,3 +59,7 @@ The current state is:
 ### TODO
 
 * Handle disconnects gracefully
+
+### License
+
+MIT &copy; [Jordan Scales](http://jordanscales.com)
